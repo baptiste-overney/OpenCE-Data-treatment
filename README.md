@@ -6,5 +6,5 @@ In order to exectute the code:
   - Download "Anaconda" on https://www.anaconda.com/products/individual
   - Launch it
   - On the "Anaconda navigator", launch "Jupyter Notebook"
-  - Copy the code from "GitHub" and paste it in the first cell
+  - Copy the code from "OpenCE_Data_treatment_python" on GitHub and paste it in the first cell
   - To start the code, under "Kernel" press "Restart & run all"
